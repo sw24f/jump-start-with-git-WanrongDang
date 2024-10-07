@@ -21,4 +21,4 @@ Here are some basic Git commands that are essential to understand:
 This section will be used to add my personal learning experiences as I continue to learn Git and GitHub.
 - Today,I learned how to initialize a Git repository and clone a repo to my local machine.
 - I practiced adding files to the staging area and commiting changes with informative messages.
-
+- I edit this file on github.com directly.
