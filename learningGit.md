@@ -24,4 +24,4 @@ This section will be used to add my personal learning experiences as I continue 
 - I edit this file on github.com directly.
 ### New Feature Section
 - Practiced using 'git diff' to compare changes between commits.
-- Lerning how to stage files and commit changes.
+- Learning how to stage files and commit changes.
