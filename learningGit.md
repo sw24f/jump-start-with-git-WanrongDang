@@ -25,3 +25,4 @@ This section will be used to add my personal learning experiences as I continue 
 ### New Feature Section
 - Practiced using 'git diff' to compare changes between commits.
 - Learning how to stage files and commit changes.
+- Understanding the importance of informative commit messages.
