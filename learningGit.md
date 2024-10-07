@@ -22,3 +22,4 @@ This section will be used to add my personal learning experiences as I continue 
 - Today,I learned how to initialize a Git repository and clone a repo to my local machine.
 - I practiced adding files to the staging area and commiting changes with informative messages.
 - I edit this file on github.com directly.
+### New Feature Section
